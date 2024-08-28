@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCollection", "TrackandTrace2\DataCollection.csproj", "{2A84B00A-DF8E-4009-8B01-7DD1BCA9CD1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A84B00A-DF8E-4009-8B01-7DD1BCA9CD1A}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{2A84B00A-DF8E-4009-8B01-7DD1BCA9CD1A}.All|Any CPU.Build.0 = Release|Any CPU
+		{2A84B00A-DF8E-4009-8B01-7DD1BCA9CD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A84B00A-DF8E-4009-8B01-7DD1BCA9CD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A84B00A-DF8E-4009-8B01-7DD1BCA9CD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A84B00A-DF8E-4009-8B01-7DD1BCA9CD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {495AB5E0-042F-45AE-8BBE-2DF9AC324CE4}
+	EndGlobalSection
+EndGlobal
